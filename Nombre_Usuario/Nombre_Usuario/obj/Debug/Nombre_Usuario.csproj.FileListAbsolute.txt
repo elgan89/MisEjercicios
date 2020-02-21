@@ -1,0 +1,5 @@
+C:\1083911405\Nombre_Usuario\Nombre_Usuario\bin\Debug\Nombre_Usuario.exe.config
+C:\1083911405\Nombre_Usuario\Nombre_Usuario\bin\Debug\Nombre_Usuario.exe
+C:\1083911405\Nombre_Usuario\Nombre_Usuario\bin\Debug\Nombre_Usuario.pdb
+C:\1083911405\Nombre_Usuario\Nombre_Usuario\obj\Debug\Nombre_Usuario.exe
+C:\1083911405\Nombre_Usuario\Nombre_Usuario\obj\Debug\Nombre_Usuario.pdb

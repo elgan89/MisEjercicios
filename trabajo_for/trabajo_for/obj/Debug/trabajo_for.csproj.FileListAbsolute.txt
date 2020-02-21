@@ -1,0 +1,6 @@
+C:\1083911405\trabajo_for\trabajo_for\bin\Debug\trabajo_for.exe.config
+C:\1083911405\trabajo_for\trabajo_for\bin\Debug\trabajo_for.exe
+C:\1083911405\trabajo_for\trabajo_for\bin\Debug\trabajo_for.pdb
+C:\1083911405\trabajo_for\trabajo_for\obj\Debug\trabajo_for.csprojResolveAssemblyReference.cache
+C:\1083911405\trabajo_for\trabajo_for\obj\Debug\trabajo_for.exe
+C:\1083911405\trabajo_for\trabajo_for\obj\Debug\trabajo_for.pdb
