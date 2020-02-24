@@ -1,0 +1,6 @@
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\bin\Debug\operadores_aripmeticos.exe.config
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\bin\Debug\operadores_aripmeticos.exe
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\bin\Debug\operadores_aripmeticos.pdb
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\obj\Debug\operadores_aripmeticos.csprojResolveAssemblyReference.cache
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\obj\Debug\operadores_aripmeticos.exe
+E:\1083911405\operadores_aripmeticos\operadores_aripmeticos\obj\Debug\operadores_aripmeticos.pdb

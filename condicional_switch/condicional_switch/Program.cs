@@ -6,13 +6,13 @@
     {
         int dia = 0;
         int mes = 0;
-        string mesLetras =="";
+        string mesLetras ="";
         int anyo = 0;
 
         Console.Write("por favor, el dia de nacimiento ");
         dia = Convert.ToInt32(Console.ReadLine());
         Console.Write("por favor, el mes de nacimiento ");
-        mesLetras = Convert.ToInt32(Console.ReadLine());
+        mes = Convert.ToInt32(Console.ReadLine());
         Console.Write("por favor, el año de nacimiento ");
         anyo = Convert.ToInt32(Console.ReadLine());
 
@@ -76,11 +76,10 @@
         {
             Console.WriteLine("la fecha ingresada es incorrecta.");
         }
-        { 
         else
-        }
          {
-         Console.ReadLine
+         Console.WriteLine("usted nacio el dia" + "del mes" + "de año" + anyo);
+             Console.ReadLine();
          }
     }
 }

@@ -4,3 +4,6 @@ C:\1083911405\contador\contador\bin\Debug\contador.pdb
 C:\1083911405\contador\contador\obj\Debug\contador.exe
 C:\1083911405\contador\contador\obj\Debug\contador.pdb
 C:\1083911405\contador\contador\obj\Debug\contador.csprojResolveAssemblyReference.cache
+E:\1083911405\contador\contador\bin\Debug\contador.exe.config
+E:\1083911405\contador\contador\obj\Debug\contador.exe
+E:\1083911405\contador\contador\obj\Debug\contador.pdb

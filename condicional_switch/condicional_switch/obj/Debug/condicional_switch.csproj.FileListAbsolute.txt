@@ -4,3 +4,9 @@ C:\1083911405\condicional_switch\condicional_switch\bin\Debug\condicional_switch
 C:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.csprojResolveAssemblyReference.cache
 C:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.exe
 C:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.pdb
+E:\1083911405\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe.config
+E:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.exe
+E:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.csprojResolveAssemblyReference.cache
+E:\1083911405\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe
+E:\1083911405\condicional_switch\condicional_switch\bin\Debug\condicional_switch.pdb
+E:\1083911405\condicional_switch\condicional_switch\obj\Debug\condicional_switch.pdb

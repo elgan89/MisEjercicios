@@ -1,0 +1,2 @@
+E:\1083911405\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.exe.config
+E:\1083911405\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.csprojResolveAssemblyReference.cache

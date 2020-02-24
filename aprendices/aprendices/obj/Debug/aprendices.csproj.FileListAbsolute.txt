@@ -4,3 +4,6 @@ C:\1083911405\aprendices\aprendices\bin\Debug\aprendices.pdb
 C:\1083911405\aprendices\aprendices\obj\Debug\aprendices.exe
 C:\1083911405\aprendices\aprendices\obj\Debug\aprendices.pdb
 C:\1083911405\aprendices\aprendices\obj\Debug\aprendices.csprojResolveAssemblyReference.cache
+E:\1083911405\aprendices\aprendices\bin\Debug\aprendices.exe.config
+E:\1083911405\aprendices\aprendices\obj\Debug\aprendices.exe
+E:\1083911405\aprendices\aprendices\obj\Debug\aprendices.pdb

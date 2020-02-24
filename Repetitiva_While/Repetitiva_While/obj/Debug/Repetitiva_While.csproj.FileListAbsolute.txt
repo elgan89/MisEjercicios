@@ -4,3 +4,6 @@ C:\1083911405\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.pdb
 C:\1083911405\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.csprojResolveAssemblyReference.cache
 C:\1083911405\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.exe
 C:\1083911405\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.pdb
+E:\1083911405\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.exe.config
+E:\1083911405\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.exe
+E:\1083911405\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.pdb
