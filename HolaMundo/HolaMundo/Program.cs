@@ -8,6 +8,7 @@ class Program
     {
 
         Console.WriteLine("hola mundo!!");
+        Console.WriteLine("esta es una prueba de control de versiones!!");
         Console.WriteLine("Este es mi primer programa C#");
         Console.ReadLine();
     }
