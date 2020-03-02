@@ -1,0 +1,6 @@
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.exe.config
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.exe
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.pdb
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.exe
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.pdb
